@@ -17,7 +17,8 @@ Copy the path of simulator
 
 ```
 /Users/saiashishdarapureddy/Desktop/folders/IOS\ Development/
-appiumTest/build/Release-iphonesimulator/appiumTest.app
+appiumTest/build/Release-iphonesimulator/appiumTest.app 
+remove \
 ```
 
 ```
@@ -25,7 +26,8 @@ Xcode => Open Developer Tool => Simulator
 ```
 
 ```
-Download appium dmg file (appium.io) from here : https://github.com/appium/appium-desktop/releases/tag/v1.22.2
+Download appium dmg file (appium.io) from here :
+https://github.com/appium/appium-desktop/releases/tag/v1.22.2
 ```
 
 ```
@@ -50,14 +52,17 @@ deviceName iPhone 13
 platformName iOS 
 platformVersion 15.2 
 udid EBDA7F9A-95AF-4A37-A04E-2FCF311E2AEC (top)
-app /Users/saiashishdarapureddy/Desktop/folders/IOS Development/appiumTest/build/Release-iphonesimulator/appiumTest.app
+app /Users/saiashishdarapureddy/Desktop/folders/IOS Development
+/appiumTest/build/Release-iphonesimulator/appiumTest.app
 noReset true appium will re-install app if it already exists
 automationName XCUITest
 ```
 
 ```
 Bug:
-Failed to create session. The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+Failed to create session. The requested resource could not be found, or
+a request was received using an HTTP method that is not supported by the
+mapped resource
 ```
 
 ```
@@ -80,7 +85,8 @@ Path: /wd/hub
 ```
 
 ```
-Xcode -> Window -> Devices and Simulators -> Select Device for which you want identifier (Inside details you can see identifier)
+Xcode -> Window -> Devices and Simulators -> Select Device for which you
+want identifier (Inside details you can see identifier)
 ```
 
 ```
