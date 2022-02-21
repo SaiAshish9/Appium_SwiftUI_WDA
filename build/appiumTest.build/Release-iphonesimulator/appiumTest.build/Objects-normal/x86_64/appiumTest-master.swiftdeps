@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "a4a403bdde4144706e008de51b2a7e16294521111299e750d5f9535b87782b48"
+build_start_time: [1645464121, 359307050]
+build_end_time: [1645464124, 193941116]
+inputs:
+  "/Users/saiashishdarapureddy/Desktop/folders/IOS Development/appiumTest/appiumTest/ContentView.swift": [1645463875, 259970903]
+  "/Users/saiashishdarapureddy/Desktop/folders/IOS Development/appiumTest/appiumTest/appiumTestApp.swift": [1645463875, 257731914]
